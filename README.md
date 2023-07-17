@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasanna</h1>
-<h3 align="center">An upcoming Web3 Developer.</h3>
+<h3 align="center">An upcoming Web Developer.</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning React and Solidity.<br><br>👯 I’m looking to collaborate on any web3 projects.<br><br>💬 Ask me about css, javascript and web3.<br><br>📫 How to reach me prasannajung08@gmail.com.
