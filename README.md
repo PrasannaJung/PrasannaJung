@@ -2,7 +2,7 @@
 <h3 align="center">An upcoming Web Developer.</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning React and Solidity.<br><br>👯 I’m looking to collaborate on any web3 projects.<br><br>💬 Ask me about css, javascript and web3.<br><br>📫 How to reach me prasannajung08@gmail.com.
+🌱 I’m currently learning Web Development.<br><br>👯 I’m looking to collaborate on any web based projects.<br><br>💬 Chat to me about anything tech related.<br><br>📫 How to reach me prasannajung08@gmail.com.
 
 
 # 💻 Tech Stack:
